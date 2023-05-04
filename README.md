@@ -1,6 +1,9 @@
 ## Gembe
 Extract Files Embedded Within Go Binaries ( [Go Embeds](https://pkg.go.dev/embed).)
 
+## How it works
+Read about it here : https://0x00sec.org/t/extracting-go-embeds/34885
+
 ## Requirements
   -  Python 3.10
 
