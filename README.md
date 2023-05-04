@@ -15,7 +15,7 @@ Extract Files Embedded Within Go Binaries ( [Go Embeds](https://pkg.go.dev/embed
 ```
 usage: gembe.py [-h] [--extract | --no-extract] [--output o] bin_name struct_addr
 
-Extract Embed File From Go Binaries.
+Extract Embedded Files From Go Binaries.
 
 positional arguments:
   bin_name              Name of the binary to inspect

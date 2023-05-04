@@ -134,7 +134,7 @@ def get_entry(haystack, start, bits, byteOrder="little") -> FileEntry:
 # arg (1) -> Binary Name
 # arg (2) -> Hex Addr of the embed struct
 
-parser = argparse.ArgumentParser(description="Extract Embed File From Go Binaries.")
+parser = argparse.ArgumentParser(description="Extract Embedded Files From Go Binaries.")
 parser.add_argument(
     "bin_name", metavar="bin_name", type=str, help="Name of the binary to inspect"
 )
